@@ -1,5 +1,5 @@
 owners:
-  - number: '6281319944687'
+  - number: '233500850221'
     name: BG
     # If you type '/owner' and if isCreator is true, this number will be shown as the owner
     isCreator: true
@@ -9,19 +9,19 @@ owners:
         label: Greetings
     # if only one of the title or org is filled, it will not appear on the vcard
     title: Main Creator 
-    org: BochilTeam
+    org: Andrew
     emails: 
       - bussinesbochilgaming@gmail.com
     urls:
       - https://github.com/BochilGaming
     
 sticker:
-  packname: Create stickers at wa.me/6285713964963
+  packname: Create stickers at wa.me/233500850221
   author: ©2023 Metro Bot
 
 donations: 
-  gopay: '6285713964963'
-  dana: '6285713964963'
+  gopay: '233500850221'
+  dana: '233500850221'
   saweria: https://saweria.co/BochilGaming
   # other donations with format Record<string, string>
 
@@ -34,4 +34,4 @@ emoticons:
   level: 🧬
   money: 💸
 
-community: https://chat.whatsapp.com/G9Z4h65krw7A0nOL1IgkMO
+community: https://whatsapp.com/channel/0029VapJCy9GJP89oQIREA45
